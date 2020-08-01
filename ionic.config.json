@@ -1,0 +1,7 @@
+{
+  "name": "ionicRecognititon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
